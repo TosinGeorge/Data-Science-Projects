@@ -6,6 +6,8 @@ Repository containing portfolio of data science projects completed by me for sel
 
 * Data Analysis
 
+1. [Profitable English Apps](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Profitable_Mobile_English_Apps.ipynb) Analysis of Free English Apps from Google Playstore and Apple Store.
+
 * Challenges
 
 1. [50-day Python Challenge
