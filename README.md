@@ -4,8 +4,9 @@ Repository containing portfolio of data science projects completed by me for sel
 ### Content
 * #### Machine Learning Projects
 
-1. [Zindi Financial Inclusion Challenge](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Financial_Inclusion_Challenge_Zindi.ipynb)
+1. [Zindi Financial Inclusion Challenge](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Financial_Inclusion_Challenge_Zindi.ipynb) **(Ranked 406 out of 1199)**
 The objective of this challenge was to identify high accuracy machine learning model to predict which individuals are most likely to have or use a bank account. Extensive use of Python libraries such as Plotly, NumPy, Seaborn, Matplot, Pandas for data analysis and ML libraries such as Scikit learn, XGB Classifier and LGBM Classifier.
+
 2. [Income Classification](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Income_Classification_Project.ipynb) Worked with a team of young women on a Machine learning project to determine whether a US citizen will make over US$50,000.00 a year or not using 4 models- Random Forest, Logistic Regression, Support Vector Machine and Decision Tree models. Together with the team, we cleaned, explored, visualized, analyzed and modeled data to classify income levels of US citizens.
 
 
