@@ -3,6 +3,8 @@ Repository containing portfolio of data science projects completed by me for sel
 
 ### Content
 * Machine Learning Projects
+1. [Income Classification](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Income_Classification_Project.ipynb) Worked with a team of young women on a Machine learning project to determine whether a US citizen will make over US$50,000.00 a year or not using 4 models- Random Forest, Logistic Regression, Support Vector Machine and Decision Tree models. Together with the team, we cleaned, explored, visualized, analyzed and modeled data to classify income levels of US citizens.
+
 
 * Data Analysis
 
