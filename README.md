@@ -14,6 +14,9 @@ The objective of this challenge was to identify high accuracy machine learning m
 
 1. [Profitable English Apps](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Profitable_Mobile_English_Apps.ipynb) Analyzed 15795 app profiles from the App Store and Google Play Store. Employed data cleaning and analysis techniques. Extensive use of Pandas libraries. The aim of this project was to recommend profitable and free mobile English apps profiles for the Google Playstore and App store. 
 
+* #### Data Visualization
+1. Riby Financials Data Visualization
+
 * #### Challenges
 
 1. [50-day Python Challenge 
