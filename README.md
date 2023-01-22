@@ -15,7 +15,7 @@ The objective of this challenge was to identify high accuracy machine learning m
 1. [Profitable English Apps](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Profitable_Mobile_English_Apps.ipynb) Analyzed 15795 app profiles from the App Store and Google Play Store. Employed data cleaning and analysis techniques. Extensive use of Pandas libraries. The aim of this project was to recommend profitable and free mobile English apps profiles for the Google Playstore and App store. 
 
 * #### Data Visualization
-1. Riby Financials Data Visualization
+1. [Riby Financials Data Visualization](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Riby%20Financials.pdf) Data Analysis and Visualization of the Riby Dataset. The Dataset contains 14 columns and 500,000 rows.
 
 * #### Challenges
 
