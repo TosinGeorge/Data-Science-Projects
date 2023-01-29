@@ -16,7 +16,7 @@ The objective of this challenge was to identify high accuracy machine learning m
 
 * #### Data Visualization
 1. [Riby Financials Data Visualization](https://github.com/TosinGeorge/Data-Science-Projects/blob/main/Riby%20Financials.pdf) Data Analysis and Visualization of the Riby Dataset. The Dataset contains 14 columns and 500,000 rows.
-2. [Data Visualisation Tutorial Video with Power BI using the Riby Financial Dataset](https://www.youtube.com/watch?v=evK-AxFXWHc&t=630s)
+2. [Data Visualisation Tutorial Video with Power BI using the Riby Financial Dataset(Part 1)](https://www.youtube.com/watch?v=evK-AxFXWHc&t=630) This is the first of 4 series videos describing how I created data visualizations using the Riby Financial Dataset.
 
 * #### Challenges
 
